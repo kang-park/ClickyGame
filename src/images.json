@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "imageURL": "https://www.ssbwiki.com/images/4/44/Mario_SSBU.png"
+    },
+    {
+        "id": 2,
+        "imageURL": "https://www.ssbwiki.com/images/4/49/Bowser_SSBU.png"
+    },
+    {
+        "id": 3,
+        "imageURL": "https://www.ssbwiki.com/images/0/07/Kirby_SSBU.png"
+    },
+    {
+        "id": 4,
+        "imageURL": "https://www.ssbwiki.com/images/8/84/Link_SSBU.png"
+    },
+    {
+        "id": 5,
+        "imageURL": "https://www.ssbwiki.com/images/2/2f/Fox_SSBU.png"
+    },
+    {
+        "id":6,
+        "imageURL": "https://www.ssbwiki.com/images/9/93/Pikachu_SSBU.png"
+    },
+    {
+        "id": 7,
+        "imageURL": "https://www.ssbwiki.com/images/d/da/Captain_Falcon_SSBU.png"
+    },
+    {
+        "id": 8,
+        "imageURL": "https://www.ssbwiki.com/images/5/53/Little_Mac_SSBU.png"
+    },
+    {
+        "id": 9,
+        "imageURL": "https://www.ssbwiki.com/images/b/ba/Sonic_SSBU.png"
+    },
+    {
+        "id": 10,
+        "imageURL": "https://www.ssbwiki.com/images/b/b6/King_K._Rool_SSBU.png"
+    },
+    {
+        "id": 11,
+        "imageURL": "https://www.ssbwiki.com/images/c/c4/Incineroar_SSBU.png"
+    },
+    {
+        "id": 12,
+        "imageURL": "https://www.ssbwiki.com/images/c/c2/Richter_SSBU.png"
+    }
+]
