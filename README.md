@@ -1,3 +1,6 @@
+This is a React memory game. You click on different images every time to earn a point, but if you click the same image twice, you will lose the game. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
